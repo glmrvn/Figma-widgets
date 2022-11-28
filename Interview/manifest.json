@@ -1,0 +1,12 @@
+{
+  "name": "Interview Questions",
+  "id": "1175446772419539350",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}

@@ -1,0 +1,12 @@
+{
+  "name": "Good design by Dieter Rams",
+  "id": "1175683555999259260",
+  "api": "1.0.0",
+  "main": "dist/code.js",
+  "editorType": [
+    "figma",
+    "figjam"
+  ],
+  "containsWidget": true,
+  "widgetApi": "1.0.0"
+}
